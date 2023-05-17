@@ -8,7 +8,7 @@ public class Cat extends Animal{
 
     public static void main(String[] args) {
 
-        //Animal newAnimal = new Animal();//'Animal' is abstract; cannot be instantiated. cannoy create object
+        //Animal newAnimal = new Animal();//'Animal' is abstract; cannot be instantiated. can not create object
 
 
         Cat newCat = new Cat();

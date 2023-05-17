@@ -1,8 +1,11 @@
 package day36_date_varargs;
 
+import day38_access_modifier.AccessModifier;
+import day38_access_modifier.AccessModifierTester;
+
 import java.util.Arrays;
 
-public class C09_Varargs {
+public class C09_Varargs  {
 
     public static void main(String[] args) {
 
@@ -29,6 +32,7 @@ public class C09_Varargs {
 
 
 
+
     }
 
         /*
@@ -38,7 +42,10 @@ public class C09_Varargs {
       If we don't know the number of the datatype we are planing to use in the method, we should create a varargs there
       Actually, varargs is an array. it uses array structure.
       If we want to calculate something in the method, we should calculate using array logic
+
+
        */
+
 
 
 

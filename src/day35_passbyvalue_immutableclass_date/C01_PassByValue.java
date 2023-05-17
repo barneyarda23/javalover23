@@ -1,6 +1,6 @@
 package day35_passbyvalue_immutableclass_date;
 
-public class C01_PassByValue {
+public class  C01_PassByValue {
     public static void main(String[] args) {
 
         double price = 200;
